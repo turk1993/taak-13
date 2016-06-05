@@ -1,0 +1,70 @@
+body {
+	background-image: url("back.jpg");
+	background-repeat: no-repeat;
+
+}
+
+header, .main, footer, .older {
+	position: relative;
+	width: 40%;
+	border: 2px solid white;
+	margin-top: 10px;
+	margin: 10px auto;
+	background-image: url("hor.jpg");
+	background-size: 100%;
+	border-radius: 3px;
+}
+
+h1, h2, h3, h4, .older {
+	text-align: center;
+	font-family: "Gadugi";
+	padding: 5px;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2.2em;
+	padding: 5px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 1.5em;
+	padding: 5px;
+}
+
+h3 {
+	font-size: 1.5em;
+	padding: 5px;
+}
+
+nav {
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: "Gadugi"
+}
+
+img {
+	margin-left: 10%;
+	padding: 5px;
+	width: 80%;
+	height: auto;
+}
+
+p {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-family: "Gadugi";
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+a {
+	padding-right: 10px;
+}
+
+footer {
+	padding-top: 10px;
+}
+
